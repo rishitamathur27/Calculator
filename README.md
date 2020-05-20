@@ -10,9 +10,7 @@ Basic operations such as addition, subtraction, multiplication and division can 
 <img src="![Screenshot_2020-05-20-16-52-54-845_com blogging calculator](https://user-images.githubusercontent.com/38039850/82441480-96ee8f80-9abb-11ea-9d4a-c7190088bdbd.jpg)">
 </p>
 
-<p align="center">
-<img src="![Screenshot_2020-05-20-16-53-30-923_com blogging calculator](https://user-images.githubusercontent.com/38039850/82441467-9229db80-9abb-11ea-9bfe-88e5884483da.jpg)">
-</p>
+![Screenshot_2020-05-20-16-53-30-923_com blogging calculator](https://user-images.githubusercontent.com/38039850/82441467-9229db80-9abb-11ea-9bfe-88e5884483da.jpg)
 
 
 
